@@ -16,7 +16,7 @@
     width: 157px;
 }
 .nav-logo{
-    background-image: url("/amazon logo.png") ;
+    background-image: url("amazon logo.png") ;
     height: 55px;
     width: 100%;
 }
@@ -290,7 +290,7 @@ ul a{
     align-items: center;
 }
 .logo1{
-    background-image: url("/amzfinal.png") ;
+    background-image: url("amzfinal.png") ;
     height: 55px;
     width: 182px;
 }
